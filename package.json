@@ -14,7 +14,7 @@
     "desc": "美信前端 tag 系统",
     "entry": "http://10.69.207.16:3344/",
     "bg": "",
-    "icon": "https://js.meixincdn.com/m/pc/dist/images/public/logo.png",
+    "icon": "./logo.png",
     "size": "full"
   }
 }
